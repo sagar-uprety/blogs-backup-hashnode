@@ -13,7 +13,7 @@ tags: aws, aws-certified-solutions-architect-associate, aws-certification, aws-t
 
 If you landed up here, you are most likely to be familiar with the AWS land, and planning to add that certification to your portfolio! If that sounds like you, you are in the right place. Truth be told, the AWS Certified Solutions Architect Associate is not a piece of cake unless you have 1-2 years of professional experience and can draw AWS architecture in your head.
 
-But, at the same time, it's not super difficult. I would like to think of it as both challenging and rewarding. As someone who scored 961 out of 1000 on the exam with just over 6 months of professional experience (at the time of the exam), I am excited to share my experiences, learning approach, resources I used, and insights to help others pursue this certification.
+But, at the same time, it's not super difficult. I would like to think of it as both challenging and rewarding. As someone who scored 961 out of 1000 on the exam with just over 4 months of professional experience (at the time of the exam), I am excited to share my experiences, learning approach, resources I used, and insights to help others pursue this certification.
 
 ### **About the Exam**
 
@@ -62,22 +62,21 @@ Alright! Now you know the approach to ace your exam. But hey, can you also tell 
 
 1. [AWS Technical Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1851/aws-technical-essentials?saa=sec&sec=prep): For clearing basic concepts on all the major topics (Recommended if you are getting started)
     
-
-1. [AWS Certified Solutions Architect - Associate Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf): Has clear documentation on the EXAM domains, the specific skills they are looking for, and the relevant services you need to focus on.
+2. [AWS Certified Solutions Architect - Associate Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf): Has clear documentation on the EXAM domains, the specific skills they are looking for, and the relevant services you need to focus on.
     
-2. [AWS Certified Solutions Architect - Associate Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)**:** 10 questions to give you an idea of the questions and their complexity.
+3. [AWS Certified Solutions Architect - Associate Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)**:** 10 questions to give you an idea of the questions and their complexity.
     
-3. [AWS Certified Solutions Architect - Associate Official Practice Question Set](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13266/aws-certified-solutions-architect-associate-official-practice-question-set-saa-c03-english?saa=sec&sec=prep): 20 additional questions that supplement the sample questions
+4. [AWS Certified Solutions Architect - Associate Official Practice Question Set](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13266/aws-certified-solutions-architect-associate-official-practice-question-set-saa-c03-english?saa=sec&sec=prep): 20 additional questions that supplement the sample questions
     
-4. [Exam Prep: AWS Certified Solutions Architect - Associate](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14760/exam-prep-aws-certified-solutions-architect-associate-saa-c03): 3-hour free course on SkillBuilder directly from AWS themselves.
+5. [Exam Prep: AWS Certified Solutions Architect - Associate](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14760/exam-prep-aws-certified-solutions-architect-associate-saa-c03): 3-hour free course on SkillBuilder directly from AWS themselves.
     
-5. [WAFR WhitePapers:](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/framework/wellarchitected-framework.pdf#welcome) Take your time to read this. It is more than 800 pages, and you do not need to learn everything. Just focus on understanding the six pillars and how you can incorporate them.
+6. [WAFR WhitePapers:](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/framework/wellarchitected-framework.pdf#welcome) Take your time to read this. It is more than 800 pages, and you do not need to learn everything. Just focus on understanding the six pillars and how you can incorporate them.
     
     (Below are the recommended resources though I did not use them personally for my exam)
     
-6. [AWS Power Hour: Architecting on-demand](https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep) - Twitch Recordings with six episodes that cover various domains from the exam with great use cases
+7. [AWS Power Hour: Architecting on-demand](https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep) - Twitch Recordings with six episodes that cover various domains from the exam with great use cases
     
-7. AWS Service FAQs - Whenever you use any AWS Service, try to also read the FAQs such as the [EC2 FAQ](https://aws.amazon.com/ec2/faqs/). I found some questions on the exam that were answered in the FAQ Section.
+8. AWS Service FAQs - Whenever you use any AWS Service, try to also read the FAQs such as the [EC2 FAQ](https://aws.amazon.com/ec2/faqs/). I found some questions on the exam that were answered in the FAQ Section.
     
 
 ### **Resources - Others**
