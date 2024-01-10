@@ -47,7 +47,7 @@ Develop a structured study plan. Allocate specific times each day or week to cov
 
 **3\. Hands-On Practice:**
 
-Apply theoretical knowledge that you have gained through hands-on practice. **This is super crucial.** Unless you don't apply what you learn, you can't relate the pain points and the problem you are solving. YES! I understand you can't use every AWS service that's out there and what exam tests you are on. But, you need be be at least proficient with common services such as EC2, S3, VPC, Lambda, IAM, Cloudformation, ECS, RDS, etc, and be aware of others. Note that AWS offers a [free tier](https://aws.amazon.com/free/) that allows you to experiment with various services without incurring charges.
+Apply theoretical knowledge that you have gained through hands-on practice. **This is super crucial.** Unless you don't apply what you learn, you can't relate the pain points and the problem you are solving. YES! I understand you can't use every AWS service that's out there and what exam tests you on. But, you need be be at least proficient with common services such as EC2, S3, VPC, Lambda, IAM, Cloudformation, ECS, RDS, etc, and be aware of others. Note that AWS offers a [free tier](https://aws.amazon.com/free/) that allows you to experiment with various services without incurring charges.
 
 **4\. Use Multiple Resources:**
 
