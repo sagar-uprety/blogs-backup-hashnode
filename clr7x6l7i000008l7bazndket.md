@@ -132,7 +132,7 @@ Pay close attention to each question. Most questions are scenario-based, and som
 
 **5\. Stay Calm:**
 
-Stress can hinder your performance, I for sure was stressed about 8-10 questions which I had doubts about. But not spending too much time on them, taking deep breaths at times, and analyzing them later on with a fresh perspective helped.
+Stress can hinder your performance, I for sure was stressed about 8-10 questions that I had doubts about. But not spending too much time on them, taking deep breaths at times, and analyzing them later on with a fresh perspective helped.
 
 ## **Conclusion**
 
