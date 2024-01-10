@@ -3,7 +3,7 @@ title: "How I scored 961/1000 in the AWS Certified Solutions Architect Associate
 seoTitle: "How I scored 961 in the AWS Certified Solutions Architect Associate"
 datePublished: Wed Jan 10 2024 15:12:47 GMT+0000 (Coordinated Universal Time)
 cuid: clr7x6l7i000008l7bazndket
-slug: how-i-scored-9611000-in-the-aws-certified-solutions-architect-associate-exam
+slug: how-i-scored-aced-my-aws-certified-solutions-architect-associate-exam
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704889675400/8fe3b306-fe08-498f-8d83-64d03d400c49.png
 tags: aws, aws-certified-solutions-architect-associate, aws-certification, aws-training, saa-c03, aws-solution-architect
 
