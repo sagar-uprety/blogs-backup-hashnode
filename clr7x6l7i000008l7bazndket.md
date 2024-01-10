@@ -112,12 +112,12 @@ To be honest, I was not expecting to score that high, but was happy when I got t
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">PRO TIP: Give your exam to a dedicated center if there's one nearby. Though rare, AWS sometimes cancels your exam if you have a network connection issue while taking it at home</div>
+<div data-node-type="callout-text">PRO TIP: Give your exam at a dedicated center if there's one nearby. Though rare, AWS sometimes cancels your exam if you have a network connection issue while taking it at home</div>
 </div>
 
 **1\. Request for additional 30 minutes**
 
-If you are from a country where English is not the native language, you can request AWS for an extra 30 minutes for your exam during registration. DO NOT miss out on this opportunity if you are eligible
+If you are from a country where English is not the native language, you can request AWS for an extra 30 minutes for your exam during registration. DO NOT miss out on this opportunity if you are [eligible (ESL +30)](https://aws.amazon.com/certification/policies/before-testing/).
 
 **2\. Reach your test center early**
 
