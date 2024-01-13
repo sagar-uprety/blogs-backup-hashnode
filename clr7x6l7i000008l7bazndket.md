@@ -6,7 +6,7 @@ cuid: clr7x6l7i000008l7bazndket
 slug: how-i-aced-my-aws-certified-solutions-architect-associate-exam
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704889675400/8fe3b306-fe08-498f-8d83-64d03d400c49.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1704899991606/280e1154-9d91-44a8-9d5f-8488379f1c58.png
-tags: aws, aws-certified-solutions-architect-associate, aws-certification, aws-training, saa-c03, aws-solution-architect
+tags: cloud, aws, aws-certified-solutions-architect-associate, aws-certification, aws-training, solutionarchitect, saa-c03, aws-solution-architect
 
 ---
 
