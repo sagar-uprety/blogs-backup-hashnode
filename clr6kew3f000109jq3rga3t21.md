@@ -1,6 +1,7 @@
 ---
 title: "What's all about AWS Default VPC?"
 seoTitle: "All About AWS Default VPC"
+seoDescription: "Explore AWS Default VPC: characteristics, use cases, customization, creation via Console, CLI, Terraform; learn when to avoid them"
 datePublished: Tue Jan 09 2024 16:27:33 GMT+0000 (Coordinated Universal Time)
 cuid: clr6kew3f000109jq3rga3t21
 slug: whats-all-about-aws-default-vpc
