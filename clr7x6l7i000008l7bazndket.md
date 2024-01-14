@@ -1,6 +1,7 @@
 ---
-title: "How I scored 961/1000 in the AWS Certified Solutions Architect Associate Exam"
+title: "Scoring 961 out of 1000 on the AWS Certified Solutions Architect Associate Exam: My Experience"
 seoTitle: "How I scored 961 in the AWS Certified Solutions Architect Associate"
+seoDescription: "Score 961 on AWS Solutions Architect Exam: Benefit from my experience, study strategy, resources, and tips for this rewarding certification"
 datePublished: Wed Jan 10 2024 15:12:47 GMT+0000 (Coordinated Universal Time)
 cuid: clr7x6l7i000008l7bazndket
 slug: how-i-aced-my-aws-certified-solutions-architect-associate-exam
@@ -12,9 +13,9 @@ tags: cloud, aws, aws-certified-solutions-architect-associate, aws-certification
 
 ### Introduction
 
-If you landed up here, you are most likely to be familiar with the AWS land, and planning to add that certification to your portfolio! If that sounds like you, you are in the right place. Truth be told, the AWS Certified Solutions Architect Associate is not a piece of cake unless you have 1-2 years of professional experience and can draw AWS architecture in your head.
+If you've landed here, you're likely familiar with the AWS landscape and planning to add that certification to your portfolio! If that sounds like you, you're in the right place. To be honest, the AWS Certified Solutions Architect Associate is not a walk in the park unless you have 1-2 years of professional experience and can visualize AWS architecture in your head.
 
-But, at the same time, it's not super difficult. I would like to think of it as both challenging and rewarding. As someone who scored 961 out of 1000 on the exam with just over 4 months of professional experience (at the time of the exam), I am excited to share my experiences, learning approach, resources I used, and insights to help others pursue this certification.
+However, it's not overly difficult either. I like to think of it as both challenging and rewarding. As someone who scored 961 out of 1000 on the exam with just over 4 months of professional experience (at the time of the exam), I am eager to share my experiences, learning approach, resources I used, and insights to help others pursue this certification.
 
 ### **About the Exam**
 
@@ -84,7 +85,7 @@ Alright! Now you know the approach to ace your exam. But hey, can you also tell 
 
 While official resources are the source of truth and are highly recommended, many of us prefer a guided approach with dedicated courses, practice sets, and a community to discuss and share learnings. I am no exception. Here's the list of third-party resources I used:
 
-1. [**Stephane Mareek Udemy Course**](https://www.udemy.cpom/course/aws-certified-solutions-architect-associate-saa-c03/): Simply the best and my go-to resource for learning the exam contents. His way of explaining things in simple terms is phenomenal. If there's one course you want to purchase, this would be the one! He also got the five full-length [**Practice Sets**](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate/) though I found them to be a bit tougher than what's tested on the exam. But this will prepare you well.
+1. [**Stephane Mareek Udemy Course**](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/): Simply the best and my go-to resource for learning the exam contents. His way of explaining things in simple terms is phenomenal. If there's one course you want to purchase, this would be the one! He also got the five full-length [**Practice Sets**](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate/) though I found them to be a bit tougher than what's tested on the exam. But this will prepare you well.
     
 2. [**Examtopics Question Bank**](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/): They have an arsenal of exam-like questions and almost half of the questions are available for free. Highly Recommended to consume those. I found the exam questions to be very similar to the ones here.
     
@@ -93,7 +94,7 @@ While official resources are the source of truth and are highly recommended, man
 4. [**r/AWSCertifications**](https://www.reddit.com/r/AWSCertifications/)**:** A great community for interacting and engaging with other test-takers and experts. They do joke around a lot, but sometimes even the joke teaches you a lot (chuckles)
     
 
-(Below are some more notable mentions as I have heard from my colleagues and the community) though I did not purchase them:
+Below are some additional resources worth mentioning, as recommended by my colleagues and the community, though I did not personally purchase them:
 
 1. [**Tutorials Dojo Udemy Course**](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c03/)
     
@@ -137,14 +138,8 @@ Stress can hinder your performance, I for sure was stressed about 8-10 questions
 
 ## **Conclusion**
 
-Thanks for reading until here! Becoming an AWS Certified Solutions Architect Associate is a challenging but rewarding accomplishment. By following a structured study plan, utilizing a variety of resources, and gaining hands-on experience, you can confidently ace your examinations. Remember that continuous learning is the key, and staying engaged with the AWS community will enrich your journey. Before leaving, I would like to ask you all.
+Thank you for reading! Achieving AWS Certified Solutions Architect Associate status is both challenging and rewarding. A structured study plan, diverse resources, and hands-on experience are the keys to acing your exam. Remember, the journey doesn't stop here. Continuous learning and active engagement with the AWS community will further enrich your experience and knowledge. As we conclude, I'm curious to know your favorite resources for the SAA-C03 Exam. Share them in the comments below.
 
-**What's your favorite resource for the SAA-C03 Exam? Do let me know in the comments below.**
-
-Well, that's it for this one. Best of luck on your path to AWS Certification Success!
-
----
-
-If you like such blogs, do follow and subscribe to my [newsletter](https://sagaruprety.com.np/newsletter). You can also check out my [YouTube](https://www.youtube.com/watch?v=jCJAiOSuOkg&t=1s) where I publish videos on DevOps and Cloud. Here's one about Docker Bridge Network that explains how containers communicate with each other and to the internet.
+Best of luck on your path to AWS Certification Success! Stay tuned for more insights and guides by following my blog and subscribing to my [newsletter](https://sagaruprety.com.np/newsletter). Don't forget to check out my [YouTube](https://www.youtube.com/watch?v=jCJAiOSuOkg&t=1s) channel for informative videos on DevOps and Cloud!
 
 %[https://www.youtube.com/watch?v=jCJAiOSuOkg&t=1s]
