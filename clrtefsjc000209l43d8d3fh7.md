@@ -210,6 +210,11 @@ Now that we have set up the entire CI/CD pipeline, it's time to test it by makin
 
 Implementing a CI/CD pipeline is a crucial step in modern software development practices to ensure efficient and reliable application delivery. We explored AWS’s powerful tools like CodePipeline, CodeBuild, and Elastic Beanstalk which can be easily integrated to set up a robust CI/CD pipeline on the cloud. By following these steps, you can easily automate the process of building, testing, and deploying your applications, saving time and ensuring consistent quality in your software releases.
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Note: This article is authored by me and was originally published for Adex International. You can find the original blog <a target="_blank" rel="noopener noreferrer nofollow" href="https://adex.ltd/streamlining-ci-cd-process-with-aws-codepipeline" style="pointer-events: none">here</a></div>
+</div>
+
 ### **Resources**
 
 AWS CodePipeline: [https://aws.amazon.com/codepipeline/](https://aws.amazon.com/codepipeline/)
