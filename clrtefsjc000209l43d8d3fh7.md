@@ -16,11 +16,11 @@ tags: aws, devops, ci-cd, aws-cicd, awscodepipeline
 
 Continuous Integration/Continuous Deployment (CI/CD) is a set of software development practices that involves automating the process of integrating, testing, and deploying code changes to production. CI/CD pipelines have become the industry standard practice in modern software development, allowing organizations to deliver software faster and with higher quality.
 
-**Continuous Integration (CI)** refers to the process of integrating code changes into a shared repository such as GitHub, building the application, and testing it automatically to ensure that the code is error-free and ready to be deployed. The aim is to catch any conflicts and errors early in the development phase.  
-  
+**Continuous Integration (CI)** refers to the process of integrating code changes into a shared repository such as GitHub, building the application, and testing it automatically to ensure that the code is error-free and ready to be deployed. The aim is to catch any conflicts and errors early in the development phase.
+
 **Continuous Delivery (CD)** takes a step further and deploys these changes to a development or production environment. The goal here is to deliver the application to the end-user in the fastest manner and shorten the feedback loop.
 
-### **The Benefits of CI/CD**
+### **Why is CI/CD needed?**
 
 Here’s a closer look into the benefits of CI/CD and why they have become the industry standard process.
 
@@ -35,7 +35,7 @@ Here’s a closer look into the benefits of CI/CD and why they have become the i
 5. **Greater agility and innovation:** CI/CD enables teams to quickly adapt to changing requirements and market conditions, promoting innovation and the ability to continuously improve the software product.
     
 
-### **Demo - AWS CodePipeline for a Java Web app - Tomcat**
+### **Demo : AWS CodePipeline for a Java Web app**
 
 There are several CI/CD tools available today such as Jenkins, GitHub Actions, GitLab CI/CD, CircleCI, Bamboo, Azure DevOps, etc each having their own strengths and weaknesses. In this blog, we will use AWS CodePipeline which integrates well with other AWS services to create the CI/CD pipeline for a sample Java web app served by Tomcat. Feel free to read further as the process is very similar for other web applications such as Node.Js, Django, .NET, and Laravel.
 
@@ -66,11 +66,11 @@ We will use the following AWS services to create the pipeline:
 
 ![CI-CD Process Overview](https://ds0xrsm6llh5h.cloudfront.net/blogs/image_65b8fb69-49f5-4e7d-87fb-53c583aa2ade_20240118065758.png align="left")
 
-### **Flow Description**
+**Flow Description**
 
 As seen from the diagram above, the pipeline will be triggered automatically whenever there is a code change in the source repository. AWS CodeBuild will then take this source code and build the application with applied configurations. This generates an application package (artifact) and stores it in S3 Bucket. Finally, in the deployment phase, Elastic Beanstalk will pull the artifact from S3 and launch the application from the bundle in the pre-defined environment. Additionally, CloudWatch produces the logs from CodeBuild that we can use for monitoring the build process. That concludes our flow.
 
-### **Implementation Guide**
+### **Step by Step Implementation Guide**
 
 **Step 1: Create an Elastic Beanstalk Environment**
 
