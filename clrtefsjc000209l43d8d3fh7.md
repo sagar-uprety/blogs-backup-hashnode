@@ -1,5 +1,5 @@
 ---
-title: "How to implement CI/CD in AWS with AWS CodePipeline"
+title: "How to implement CI/CD in AWS with AWS CodePipeline?"
 seoTitle: "Implement CI-CD in AWS"
 seoDescription: "Build CI/CD Pipeline for your Java Tomcat Application with AWS Beanstalk and CodePipeline"
 datePublished: Wed Jan 17 2024 18:15:00 GMT+0000 (Coordinated Universal Time)
