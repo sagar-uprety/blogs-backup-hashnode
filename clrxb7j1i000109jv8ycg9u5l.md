@@ -20,10 +20,10 @@ In this blog post, we will explore how to leverage ECS Exec to access containers
 
 ### The Need
 
-**Picture this:** You are a cloud engineer overseeing a fleet of containers running smoothly on Amazon's Elastic Container Service (ECS). Everything seems under control until one of your containerized applications starts throwing errors during peak traffic hours. You checked everything on your monitoring solution such as CloudWatch and it does provide information of substance. Or, perhaps, you need to run some commands and interact with various processes on your containers.  
-  
-Either way, you need a way to quickly execute into the container. One solution is to SSH into the EC2 host running the containers and then perform `docker exec` against the container. But wait, Fargate does not even allow direct SSH. So, what now? There comes ECS Exec into play, a relatively new functionality, released by AWS in March 2021, that allows users to either run an interactive shell or a single command directly against a container.  
-  
+**Picture this:** You are a cloud engineer overseeing a fleet of containers running smoothly on Amazon's Elastic Container Service (ECS). Everything seems under control until one of your containerized applications starts throwing errors during peak traffic hours. You checked everything on your monitoring solution such as CloudWatch and it does provide information of substance. Or, perhaps, you need to run some commands and interact with various processes on your containers.
+
+Either way, you need a way to quickly execute into the container. One solution is to SSH into the EC2 host running the containers and then perform `docker exec` against the container. But wait, Fargate does not even allow direct SSH. So, what now? There comes ECS Exec into play, a relatively new functionality, released by AWS in March 2021, that allows users to either run an interactive shell or a single command directly against a container.
+
 For ECS running on EC2, this also removes the need for SSH or direct access to the host. This capability simplifies container management and makes it easier to diagnose issues, gather logs, and perform other necessary tasks.
 
 ### **Pre-requisites**
@@ -56,14 +56,12 @@ Once the Session Manager plugin is installed, you can access your container usin
 ```bash
 aws ecs execute-command  \
     --region $AWS_REGION \
-    --cluster ecs-exec-demo-cluster \
-    --task ef6260ed8aab49cf926667ab0c52c313 \
-    --container nginx \
+    --cluster <cluster-name> \
+    --task <task-id> \
+    --container <container-name> \
     --command "/bin/bash" \
     --interactive
 ```
-
-Replace `<instance-id>` with the ID of the EC2 instance or task you want to access.
 
 ### **Step 3: Execute Commands**
 
